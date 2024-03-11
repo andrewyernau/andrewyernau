@@ -1,16 +1,13 @@
-### Hi there 👋
+### André Yermak
+#### Telecomunicaciones y Telemática 🔭
+Me llamo André, me dedico a crear y desarrollar proyectos relacionadas con la tecnología e IoTs. 
+Me gusta aprender cada día lenguajes de programación como Java, Python, sistemas como R studio, frameworks como Node.js y bases de datos como MySQL. Actualmente estoy estudiando en la Universidad Politécnica de Cartagena pero estoy abierto a cualquier oportunidad que surja.
 
-<!--
-**andrewyernau/andrewyernau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-💻Java
+-🌐MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Mail:asyermak@gmail.com 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewyernau)](https://github.com/anuraghazra/github-readme-stats)
