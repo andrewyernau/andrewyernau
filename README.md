@@ -1,8 +1,6 @@
 ### André Yermak
-#### Telecomunicaciones y Telemática 🔭
-Me llamo André, me dedico a crear y desarrollar proyectos relacionadas con la tecnología e IoTs. 
-Me gusta aprender cada día lenguajes de programación como Java, Python, sistemas como R studio, frameworks como Node.js y bases de datos como MySQL. Actualmente estoy estudiando en la Universidad Politécnica de Cartagena pero estoy abierto a cualquier oportunidad que surja.
-
+#### Telecommunications and Telematics 🔭
+My name is André, and I specialize in creating and developing projects related to technology and IoTs. I enjoy learning programming languages such as Java, Python, systems like R studio, frameworks like Node.js, and databases like MySQL every day. Currently, I am studying at the Polytechnic University of Cartagena, but I am open to any opportunities that may arise.
 
 -💻Java
 -🌐MySQL
